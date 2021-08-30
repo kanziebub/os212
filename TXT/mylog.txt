@@ -1,0 +1,9 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+
+ZCZC W00 30 L04 Setting-up GitHub Page Repo
+ZCZC W00 5 L01 First Contact
+ZCZC W00 5 L01 Joining Discord
+ZCZC W00 5 L01 Second Contact
+ZCZC W00 100 L02 Sync 8/30
