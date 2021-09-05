@@ -1,1 +1,2 @@
-# os212 - Nabila Khansa (1906293221)
+# os212
+Nabila Khansa (1906293221)
