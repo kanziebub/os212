@@ -7,3 +7,7 @@ ZCZC W00 5 L01 First Contact
 ZCZC W00 5 L01 Joining Discord
 ZCZC W00 5 L01 Second Contact
 ZCZC W00 100 L02 Sync 8/30
+ZCZC W00 100 L02 Sync 9/02
+ZCZC W00 60 L32 Youtube: watch OS related vids
+ZCZC W00 20 L21 Installing and Checking Out VirtualBox
+ZCZC W00 120 L00 Notes & Quiz Preparation
