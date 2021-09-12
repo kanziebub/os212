@@ -11,3 +11,5 @@ ZCZC W00 100 L02 Sync 9/02
 ZCZC W00 60 L32 Youtube: watch OS related vids
 ZCZC W00 20 L21 Installing and Checking Out VirtualBox
 ZCZC W00 120 L00 Notes & Quiz Preparation
+ZCZC W01 220 L31 Importing until Dressing Up VirtualBox
+ZCZC W01 20 L03 Pull/Push GitHub
