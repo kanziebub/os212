@@ -13,3 +13,5 @@ ZCZC W00 20 L21 Installing and Checking Out VirtualBox
 ZCZC W00 120 L00 Notes & Quiz Preparation
 ZCZC W01 220 L31 Importing until Dressing Up VirtualBox
 ZCZC W01 20 L03 Pull/Push GitHub
+ZCZC W01 45 L16 Dress Up GitHub, Figuring Out MD
+ZCZC W02 0 L16 Putting Up Helpful Links
