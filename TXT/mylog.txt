@@ -14,4 +14,5 @@ ZCZC W00 120 L00 Notes & Quiz Preparation
 ZCZC W01 220 L31 Importing until Dressing Up VirtualBox
 ZCZC W01 20 L03 Pull/Push GitHub
 ZCZC W01 45 L16 Dress Up GitHub, Figuring Out MD
-ZCZC W02 10 L16 Putting Up Helpful Links
+ZCZC W01 10 L16 Putting Up Helpful Links
+ZCZC W02 45 L27 Most of Week 02 Assignment
