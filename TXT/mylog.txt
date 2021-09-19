@@ -19,3 +19,5 @@ ZCZC W02 45 L09 Most of Week 02 Assignment
 ZCZC W02 15 L08 Ask Questions About Last Quiz
 ZCZC W02 60 L00 Intro to Cybersecurity
 ZCZC W02 25 L09 Update Links and Review Peer Links
+ZCZC W02 120 L00 Notes & Quiz Preparation
+ZCZC W02 150 L32 Youtube
