@@ -12,3 +12,7 @@ about scripting.
 2. [Shell Scripting Crash Course - Beginner Level](https://www.youtube.com/watch?v=v-F3YLd6oMw)<br>
 Other than the previous page, this video provided a great intro to scripting.
 
+3. [Introduction to Cybersecurity](https://www.codecademy.com/learn/introduction-to-cybersecurity)<br>
+I find this page helpful because I prefer reading over watching a video as I can set my own pace.
+This page also provides information in a way that doesn't bore with an eye-pleasing interface
+and interesting illustrations.
