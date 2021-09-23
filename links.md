@@ -16,3 +16,14 @@ Other than the previous page, this video provided a great intro to scripting.
 I find this page helpful because I prefer reading over watching a video as I can set my own pace.
 This page also provides information in a way that doesn't bore with an eye-pleasing interface
 and interesting illustrations.
+
+4. [Linux File System](https://www.javatpoint.com/linux-file-system)<br>
+This page provides easy-to-understand information with helpful media attachments.
+
+5. [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)<br>
+A very brief video on Linux directories. The video may be short, but it provides answers to
+questions I didn't know I had.
+
+6. [Compression: Crash Course Computer Science #21](https://www.youtube.com/watch?v=OtDxDvCpPL4)<br>
+CrashCourse my beloved. This YouTube channel helped me get thru last semester classes
+and is now helping me survive this semester.
