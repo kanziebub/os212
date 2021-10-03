@@ -26,3 +26,7 @@ ZCZC W03 150 L09 Week 03 Assignment
 ZCZC W03 100 L32 Youtube
 ZCZC W03 45 L00 Reading Friends' Links Content
 ZCZC W03 120 L00 Notes & Quiz Preparation
+ZCZC W04 120 L09 Weekly Assignment
+ZCZC W04 45 L00 Reviewing Links
+ZCZC W04 120 L00 Notes & Quiz Preparation
+ZCZC W04 120 L32 Youtube
