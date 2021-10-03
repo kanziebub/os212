@@ -27,3 +27,10 @@ questions I didn't know I had.
 6. [Compression: Crash Course Computer Science #21](https://www.youtube.com/watch?v=OtDxDvCpPL4)<br>
 CrashCourse my beloved. This YouTube channel helped me get thru last semester classes
 and is now helping me survive this semester.
+
+7. [Endian-ness](https://www.youtube.com/watch?v=KPcVpf7BMzA)<br>
+This video covers the big endian and little endian systems and how they organize bytes of data into integers.
+It's short enough to get me to watch it, and it helps re
+
+8. [Segmented, Paged and Virtual Memory](https://www.youtube.com/watch?v=p9yZNLeOj4s)<br>
+This video provides a good intro to the paged and segmented memory management systems. 
