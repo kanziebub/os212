@@ -34,3 +34,11 @@ It's short enough to get me to watch it, and it helps re
 
 8. [Segmented, Paged and Virtual Memory](https://www.youtube.com/watch?v=p9yZNLeOj4s)<br>
 This video provides a good intro to the paged and segmented memory management systems. 
+
+9. [Virtual Memory: 3 What is Virtual Memory?](https://www.youtube.com/watch?v=qlH4-oHnBb80)<br>
+This video is simple to understand and provides real life examples.
+
+10. [Caching - Simply Explained](https://www.youtube.com/watch?v=6FyXURRVmR0)<br>
+The creator explained the topic with great examples and engaging animations.
+
+
