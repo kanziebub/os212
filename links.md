@@ -41,4 +41,13 @@ This video is simple to understand and provides real life examples.
 10. [Caching - Simply Explained](https://www.youtube.com/watch?v=6FyXURRVmR0)<br>
 The creator explained the topic with great examples and engaging animations.
 
+11. [Concepts in Multicore Programming](https://www.mathworks.com/help/simulink/ug/concepts-in-multicore-programming.html)<br>
+This page covers most things you need to know about the general concept of multicore programming.
+
+12. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
+It's interesting how forking lets you run multiple processes concurrently.
+
+13. [Zombie and Orphan Processes in C](https://www.geeksforgeeks.org/zombie-and-orphan-processes-in-c/)<br>
+Honestly the only reason this page interests me is because not only is the topic relevant,
+the title has orphan in it.
 

@@ -35,3 +35,10 @@ ZCZC W05 150 L09 Weekly Assignment
 ZCZC W05 120 L32 Youtube
 ZCZC W05 60 L00 Review Prev Quiz
 ZCZC W05 120 L00 Notes & Quiz Preparation
+ZCZC W06 30 L00 W06 Contact
+ZCZC W06 120 L09 Weekly Assignment
+ZCZC W06 120 L32 YouTube
+ZCZC W06 60 L00 Try Prev Problems
+ZCZC W06 60 L00 Prep Notes
+ZCZC W06 15 L64 Help a Friend
+ZCZC w06 1050 L73 Eternal Return Ranked
