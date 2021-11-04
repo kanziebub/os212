@@ -51,3 +51,6 @@ It's interesting how forking lets you run multiple processes concurrently.
 Honestly the only reason this page interests me is because not only is the topic relevant,
 the title has orphan in it.
 
+14. [Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)
+This page includes information regarding process synchronization, race condition, critical section 
+and the solutions to it, synchronization hardware, and mutex locks.
