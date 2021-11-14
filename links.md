@@ -51,6 +51,14 @@ It's interesting how forking lets you run multiple processes concurrently.
 Honestly the only reason this page interests me is because not only is the topic relevant,
 the title has orphan in it.
 
-14. [Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)
+14. [Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)<br>
 This page includes information regarding process synchronization, race condition, critical section 
 and the solutions to it, synchronization hardware, and mutex locks.
+
+15. [Operating System - Process Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)<br>
+Includes Process Scheduling Queues, Two-State Process Model, Short/Medium/Long Schedulers and their comparison, and 
+Context Switch.
+
+16. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)
+Another web that covers scheduling..
+
